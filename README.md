@@ -1,4 +1,4 @@
-### Hi, I'm Rahul Narayan 👋
+########################## Hi, I'm Rahul Narayan 👋
 
 - 🌱 Student @IIT Kanpur
 - 😄 I'm currently learning more about programming.
