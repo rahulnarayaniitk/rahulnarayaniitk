@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Rahul Narayan, currently I'm doing my undergraduation at IITK, in electrical engineering department.
-I'm currently learning more about programming.
+- My name is Rahul Narayan, currently I'm doing my undergraduation at IITK, in electrical engineering department.
+- I'm currently learning more about programming.
 
-MY EMAIL-ID      : rahulkunal0@gmail.com
-MY DISCORD SERVER: i_m_rns#9527
+- MY EMAIL-ID      : rahulkunal0@gmail.com
+- MY DISCORD SERVER: i_m_rns#9527
 <!--
 **rahulnarayaniitk/rahulnarayaniitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
