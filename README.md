@@ -1,9 +1,18 @@
 ### Hi, I'm Rahul Narayan 👋
 
-- 🌱 Student @IIT Kanpur
-- 😄 I'm currently learning more about programming.
+- currently in my third year of Electrical Engineering Degree at IIT Kanpur. 
+- My academic journey has been a path of discovery, leading me to my true passion: problem-solving, data analysis, and the captivating realm of Machine Learning and AI. 
+- I find immense satisfaction in comprehending data intricacies and leveraging that knowledge to achieve desired outcomes. 
+- Proficient in coding and Data Structure and Algorithms (DSA), I take pleasure in unravelling complexities and crafting elegant solutions. 
+- Beyond my academic pursuits, I eagerly immerse myself in case studies on pressing issues, always on the lookout for innovative resolutions. 
+- As I look ahead, my ambition is to wield the power of AI, utilizing data insights to drive meaningful change. Together, let's innovate and make a lasting impact! 💡
 
-- 📫 Feel free to email me rahulkunal0@gmail.com
+
+
+
+
+
+##Feel free to email me at rahulkunal0@gmail.com
 
 <!--
 **rahulnarayaniitk/rahulnarayaniitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
