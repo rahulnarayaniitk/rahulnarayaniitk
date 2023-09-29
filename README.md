@@ -1,13 +1,11 @@
 ### Hi, I'm Rahul Narayan 👋
 
-- currently in my third year of Electrical Engineering Degree at IIT Kanpur. 
-- My academic journey has been a path of discovery, leading me to my true passion: problem-solving, data analysis, and the captivating realm of Machine Learning and AI. 
-- I find immense satisfaction in comprehending data intricacies and leveraging that knowledge to achieve desired outcomes. 
-- Proficient in coding and Data Structure and Algorithms (DSA), I take pleasure in unravelling complexities and crafting elegant solutions. 
-- Beyond my academic pursuits, I eagerly immerse myself in case studies on pressing issues, always on the lookout for innovative resolutions. 
-- As I look ahead, my ambition is to wield the power of AI, utilizing data insights to drive meaningful change. Together, let's innovate and make a lasting impact! 💡
-
-
+- currently in my third year of Electrical Engineering Degree at IIT Kanpur.
+- I've been very passionate about problem-solving, data analysis, web development, and the captivating realm of Machine Learning and AI.
+- I find immense satisfaction in comprehending data intricacies and leveraging that knowledge to achieve desired outcomes.
+- Proficient in coding, Data Structure and Algorithms (DSA), and web development, I take pleasure in unravelling complexities and crafting elegant solutions for the web.
+- Beyond my academic pursuits, I eagerly immerse myself in case studies on pressing issues, always on the lookout for innovative resolutions.
+-  As I look ahead, my ambition is to wield the power of AI and web development, utilizing data insights and crafting seamless web experiences to drive meaningful change. 
 
 
 
