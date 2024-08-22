@@ -14,7 +14,7 @@
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/rahuliitk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahuliitk21" height="30" width="40" /></a>
+<a href="https://x.com/Rahuliitk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahuliitk21" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rahulnarayaniitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahulnarayaniitk" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100004190328656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004190328656" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rahulkunal0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahulkunal0/" height="30" width="40" /></a>
